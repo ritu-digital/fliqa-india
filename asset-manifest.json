@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/fliqa-india/static/css/main.e6e3f049.chunk.css",
+    "main.js": "/fliqa-india/static/js/main.737455e8.chunk.js",
+    "main.js.map": "/fliqa-india/static/js/main.737455e8.chunk.js.map",
+    "runtime-main.js": "/fliqa-india/static/js/runtime-main.b7d3ad7b.js",
+    "runtime-main.js.map": "/fliqa-india/static/js/runtime-main.b7d3ad7b.js.map",
+    "static/js/2.480ba7ca.chunk.js": "/fliqa-india/static/js/2.480ba7ca.chunk.js",
+    "static/js/2.480ba7ca.chunk.js.map": "/fliqa-india/static/js/2.480ba7ca.chunk.js.map",
+    "static/js/3.1df18642.chunk.js": "/fliqa-india/static/js/3.1df18642.chunk.js",
+    "static/js/3.1df18642.chunk.js.map": "/fliqa-india/static/js/3.1df18642.chunk.js.map",
+    "index.html": "/fliqa-india/index.html",
+    "static/css/main.e6e3f049.chunk.css.map": "/fliqa-india/static/css/main.e6e3f049.chunk.css.map",
+    "static/js/2.480ba7ca.chunk.js.LICENSE.txt": "/fliqa-india/static/js/2.480ba7ca.chunk.js.LICENSE.txt",
+    "static/media/background.6e688a1e.svg": "/fliqa-india/static/media/background.6e688a1e.svg",
+    "static/media/beach.995c104b.svg": "/fliqa-india/static/media/beach.995c104b.svg",
+    "static/media/drone.93e56fd5.svg": "/fliqa-india/static/media/drone.93e56fd5.svg",
+    "static/media/graphic-design.3a704846.svg": "/fliqa-india/static/media/graphic-design.3a704846.svg",
+    "static/media/portfolio.3804c7cf.svg": "/fliqa-india/static/media/portfolio.3804c7cf.svg",
+    "static/media/pre-wedding-shoot.affe5e76.svg": "/fliqa-india/static/media/pre-wedding-shoot.affe5e76.svg",
+    "static/media/wedding-pic.da7ca5fe.svg": "/fliqa-india/static/media/wedding-pic.da7ca5fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7d3ad7b.js",
+    "static/js/2.480ba7ca.chunk.js",
+    "static/css/main.e6e3f049.chunk.css",
+    "static/js/main.737455e8.chunk.js"
+  ]
+}
