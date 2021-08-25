@@ -1,0 +1,40 @@
+.header{
+    width: 100%;
+    height: 10vh;
+    background-color: var(--header-clr);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.header__logo{
+    width: 10%; 
+    margin-top: 3vh;
+}
+.header__logo>img{
+    display: inline-block;
+    width: 100%;
+    height: 6vh;
+object-fit: contain;
+padding: auto 0;
+}
+.header__menu{
+    width: 60%;  
+}
+.header__menu>ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.header__menu>ul>li>a{
+    color: #000;
+    text-decoration: none;
+}
+.header__right{
+    width: 20%;
+}
+.active{
+    font-weight: bold;
+}

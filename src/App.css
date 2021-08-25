@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --header-clr: #FAEACC;
+  --bg-clr: #E5E5E5;
+  --login-button: #ADD7CC;
+  --quote-button: #F8BF7A;
+}
+body{
+  overflow-x: hidden;
+}
